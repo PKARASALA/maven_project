@@ -25,11 +25,11 @@ node{
 				type: war		
 			]	
 		],
-		credentialsId: 'nexus3',
-		groupId: 'in.ashokit',
+		credentialsId: 'nexus',
+		groupId: 'in.pavanit',
 		nexusUrl: '',
 		protocol: 'http',
-		repository: 'ashokit-release'
+		repository: 'pavanit-snapshot-repository'
 		version: '1.0.0'
 	}
 }
