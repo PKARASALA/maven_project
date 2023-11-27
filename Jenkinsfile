@@ -19,9 +19,9 @@ node{
 	steps{
 		nexusArtifactUploader artifacts: [	
 			[
-				artifactId: '01-maven-web-app',
+				artifactId: 'maven-web-app',
 				classifier: '',
-				file: 'target/01-maven-web-app.war',
+				file: 'target/maven-web-app.war',
 				type: war		
 			]	
 		],
